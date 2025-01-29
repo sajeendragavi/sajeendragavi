@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sajeendragavi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning fullstack development
+
+- 🚀 Software Engineer | Java, Spring Boot, React | Building Scalable Systems | Cloud & Microservices Enthusiast ☁️
 
 
 <!---
